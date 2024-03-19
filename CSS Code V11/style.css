@@ -1,0 +1,123 @@
+#Creator {
+    cursor: pointer;
+    color: red;
+    background-color: chartreuse;
+    text-align: center;
+    font-size: medium;
+    font-family: fantasy;
+    font-weight: bold;
+    font-style: italic;
+}
+#Creator:hover {
+    text-shadow: -1px 5px 11px red;
+    background-color: black;
+    color: red;
+}
+#Creator:active {
+    width: auto;
+    background-color: blueviolet;
+    color:royalblue;
+}
+.card {
+    border: 5px solid gold;
+    width: 30%;
+    margin: 0 auto;
+}
+.italic {
+    font-weight: bolder 100;
+    font-family: fantasy;
+    font-style: italic;
+    text-shadow: 1px 2px 11px;
+}
+.italic1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 2px 11px;
+    font-style: italic;
+    font-weight: 200;
+}
+.italic2 {
+    text-shadow: 1px 2px 11px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 300;
+}
+.italic3 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-shadow: 1px 2px 11px;
+    font-style: italic;
+    font-weight: 400;
+}
+.italic4 {
+    font-family: cursive;
+    text-shadow: 1px 2px 11px;
+    font-style: italic;
+    font-weight: 500;
+}
+.italic5 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 1px 2px 11px;
+    font-style: italic;
+    font-weight: 600;
+}
+.italic6 {
+    font-family: cursive;
+    text-shadow: 1px 2px 11px;
+    font-style: italic;
+    font-weight: 700;
+}
+.italic7 {
+    font-weight: 800;
+    text-shadow: 1px 2px 11px;
+    font-family: cursive;
+    font-style: italic;
+
+}
+.italic8 {
+    font-family: cursive;
+    text-shadow: 1px -1px 10px;
+    font-weight: 900;
+    font-style: italic;
+}
+.italic:hover {
+    color: red;
+    background-color: blue;
+}
+.italic1:hover {
+    color: crimson;
+    background-color: blueviolet;
+}
+.italic2:hover {
+    color: gold;
+    background-color: aqua;
+
+}
+.italic3:hover {
+    color: royalblue;
+    background-color: cadetblue;
+
+}
+.italic4:hover {
+    color: firebrick;
+    background-color: darkgreen;
+}
+.italic5:hover {
+    color: gainsboro;
+    background-color: darkorange;
+
+}
+.italic6:hover {
+    color: ghostwhite;
+    background-color: lightseagreen;
+
+}
+.italic7:hover {
+    color: darkred;
+    background-color: dodgerblue;
+}
+.italic8:hover {
+    color: dimgrey;
+    background-color: cyan;
+}
+#border {
+    background-color: chocolate;
+}

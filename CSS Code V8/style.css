@@ -1,0 +1,39 @@
+.Border1 {
+    color: teal;
+    padding: 15px;
+    border: solid;
+    border-top-color: red;
+    border-right-color: forestgreen;
+    border-bottom-color: gold;
+    border-left-color: khaki;
+}
+.Border2 {
+    color: teal;
+    padding: 15px;
+    border: double;
+    border-top-color: royalblue;
+    border-right-color: salmon;
+    border-bottom-color: chocolate;
+    border-left-color: violet;
+}
+.Border3 {
+    color: teal;
+    padding: 15px;
+    border: dashed;
+    border-top-color: fuchsia;
+    border-right-color: cyan;
+    border-bottom-color: maroon;
+    border-left-color: mediumpurple;
+}
+.Border4 {
+    color: teal;
+    padding: 15px;
+    border: dotted;
+    border-top-color: tan;
+    border-right-color: thistle;
+    border-bottom-color: tomato;
+    border-left-color: turquoise;
+}
+.Border_body {
+    width: 200px;
+}

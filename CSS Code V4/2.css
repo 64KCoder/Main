@@ -1,0 +1,18 @@
+.lang {
+    text-decoration-line: overline;
+}
+.Heading {
+    text-decoration-line: line-through;
+}
+#Hyperlink {
+    text-decoration-line: underline;
+}
+.Lorem {
+    text-transform: uppercase;
+}
+.CapitalBank {
+    text-transform: capitalize;
+}
+#class {
+    letter-spacing: 10px;
+}
